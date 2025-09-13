@@ -15,7 +15,7 @@ import Button from '@mui/material/Button'
 import { useNavigate } from 'react-router-dom';
 
 // ejemplo de arrays de navegación y opciones (podés definirlos según tu app)
-const pages = ['Sitio', 'Productos', 'Categorias', 'Login'];
+const pages = ['Admin', 'Productos', 'Categorias', 'Login'];
 const settings = ['Perfil', 'Cuenta', 'Cerrar sesión'];
 
 function NavAdmin() {
